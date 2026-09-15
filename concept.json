@@ -1,0 +1,11 @@
+{
+  "slug": "pfp-byte",
+  "name": "PFP Byte",
+  "kind": "art",
+  "description": "Create geometric SVG profile images optimized for the 4 KiB transaction ceiling.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
