@@ -8,7 +8,7 @@ Create geometric SVG profile images optimized for the 4 KiB transaction ceiling.
 
 - Source: https://github.com/nirholas/pfp-byte
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
